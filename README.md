@@ -77,4 +77,4 @@ export default class MyDocument extends Document {
 ## Learn more
 More information is available at: <a>https://nextjs.org/docs/getting-started</a>
 
-Also see: <a>https://nextjs.org/docs/getting-started</a>
+Also see: <a>https://styled-components.com/docs/basics#getting-started</a>
